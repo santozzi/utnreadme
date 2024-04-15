@@ -8,4 +8,4 @@
 <img src="./image/javawallpaper.jpg" />
 
 
-<a name="#practico2"></a> 
+<a name="practico2"></a> 
