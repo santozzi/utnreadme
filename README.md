@@ -1,8 +1,11 @@
 # Práctico 2
-
-<a href="http://google.com"> Google </a>
+## Indice
+* <a href="#practico2"> Práctico 2 </a>
 
 * item
 * item 2
 
 <img src="./image/javawallpaper.jpg" />
+
+
+<a name="#practico2"></a> 
